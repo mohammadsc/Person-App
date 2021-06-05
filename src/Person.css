@@ -1,0 +1,9 @@
+.person {
+    width: 40%;
+    border: 1px solid grey;
+    border-radius: 1em;
+    padding: 1em;
+    margin: 1em auto;
+    background-color: whitesmoke;
+    direction: rtl;
+}
